@@ -1,6 +1,6 @@
 # 📜 Vertical Scroll Snap
 
-A sleek and modern web experience built with HTML, CSS and JavaScript that enables seamless vertical scrolling with precise snap to section functionality. Vertical Scroll Snap delivers a clean, immersive design perfect for digital storytelling, landing pages and portfolios.
+A sleek and modern web experience built with HTML, CSS and JavaScript that enables seamless vertical scrolling with precise snap to section functionality. Vertical Scroll Snap delivers a clean, immersive design perfect for digital story telling, landing pages and portfolios.
 
 ---
 
