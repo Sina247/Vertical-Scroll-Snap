@@ -12,3 +12,8 @@ A sleek and modern web experience built with HTML, CSS and JavaScript that enabl
 - 💻 **Responsive design** : Optimized for desktops, tablets and mobile devices.  
 - ⚙️ **HTML and CSS** : Lightweight and easy to extend or customize.  
 - 🎨 **Minimal UI** : Clean and modern visual aesthetics for enhanced readability.
+
+ ---
+ 
+## 🖼️ Screenshot
+<img width="1919" height="937" alt="Screenshot 2026-05-30 091704" src="https://github.com/user-attachments/assets/c0047bd3-9cb5-4e8b-bb05-f9dc7e5feaff" />
